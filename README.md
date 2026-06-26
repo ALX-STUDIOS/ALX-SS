@@ -1,6 +1,6 @@
 # Alx-ss ( https://discord.gg/n99KjKFBXu )
 
-**English** ·
+**English** 
 
 ScreenShare administration tool for FiveM servers running **ESX Legacy**.
 Lets staff hold a player for a review: it teleports them to a private room,
