@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'NK'
+author 'ALX https://discord.gg/n99KjKFBXu'
 description 'alx-ss ScreenShare - Herramienta de administracion'
 version '2.0.0'
 
