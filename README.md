@@ -1,4 +1,4 @@
-# alx-ss
+# Alx-ss ( https://discord.gg/n99KjKFBXu )
 
 **English** ·
 
